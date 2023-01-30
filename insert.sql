@@ -1,0 +1,2 @@
+insert into RD_BANK_ACCOUNT(id, code, DESCRIPTION, BANK_NAME, CBU, HOLDER_NAME, COUNTRY_ID, CURRENCY_ID, ACTIVE, ACCOUNT_TYPE)
+values(117, 'desp_bnb_ar', 'desp_bnb_ar', 'desp_bnb_ar', '1000371', 'Despegar.com', 20010, 13, 1, 'COLLECT')
